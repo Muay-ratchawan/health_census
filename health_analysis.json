@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"thyroid.jpg",
+        "imagesrc":"https://www.mayoclinic.org/content/dam/media/en/images/2023/02/09/thyroid-gland.jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"diabeties.jpg",
+        "imagesrc":"https://vediherbals.com/cdn/shop/articles/How_Does_Diabetes_Affect_the_Body.jpg?v=1727938571",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure.jpg",
+        "imagesrc":"https://palmharborpharmacy.com/wp-content/uploads/2022/08/highbloodpressure.jpeg",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
